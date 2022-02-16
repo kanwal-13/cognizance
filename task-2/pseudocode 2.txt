@@ -1,0 +1,25 @@
+This program will allow the user to get the Nth term of fibonacci series
+
+START
+int main function
+	DECLARE integer N, num1, num2, sum, i
+
+	SET num1=0
+	SET num2=1
+
+	print "enter the number"
+	READ a number N
+	
+	FOR i=1 to N
+		SET sum=num1+num2
+		SET num1=num2
+		SET num2=sum
+	END FOR
+
+	print "the Nth term is"
+	print num1
+END
+
+	
+
+	
