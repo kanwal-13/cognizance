@@ -1,0 +1,5 @@
+name: kanwaljeet kaur 
+department: cce
+application used: figma
+genre: music 
+description: a music website to stream unlimeted music for free 
