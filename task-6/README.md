@@ -49,3 +49,7 @@
 
 [MUSIQAL](https://drive.google.com/file/d/1HlAXUA141ILgmg_-zkzHxdIgSpcsL1xl/view)
 
+---
+<span style= "color: #47DF8D; font-size:2.2rem; font-family: 'Times New Roman'"> SCREENSHOT </span>
+
+![SAMPLE](musiqal-preview.jpg)
